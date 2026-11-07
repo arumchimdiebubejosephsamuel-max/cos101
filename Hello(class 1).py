@@ -1,0 +1,12 @@
+print("hello world")
+print(3+2)
+print("welcome to cos 101 practical.")
+print(8/2)
+print(10-5)
+print(6+2)
+print(int(8/2))
+result_of_division=input(50/5)
+print(result_of_division)
+result_of_multiplication=int(input(12345*123456))
+print(result_of_multiplication)
+
