@@ -1,0 +1,10 @@
+item_name=input("Type the item's name:")
+quantity=int(input("Type the quantity of the item:"))
+unit_price=float(input("Type the cost of the item :"))
+total_cost= quantity * unit_price
+print()
+print()
+print ("item:" ,  item_name)
+print("Quantity:" , quantity)
+print("unit_price:" , unit_price)
+print("Total cost:" , total_cost)
